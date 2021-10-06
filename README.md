@@ -1,7 +1,7 @@
 # Hi There, Fellow Kids 👋
 
 <!--
-**iridalis/iridalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**irida101/irida101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to Website 101
+## Welcome

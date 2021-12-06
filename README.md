@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![irida101's GitHub stats](https://github-readme-stats.vercel.app/api?username=irida101&count_private=true&show_icons=true&theme=panda)](https://github.com/irida101)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irida101&langs_count=8&theme=panda)](https://github.com/irida101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irida101&count_private=true&langs_count=8&theme=panda)](https://github.com/irida101)
